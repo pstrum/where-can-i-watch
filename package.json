@@ -1,0 +1,36 @@
+{
+  "name": "where-can-i-watch",
+  "version": "0.0.1",
+  "description": "Search the availability of TV Shows and Movies via the GuideBox API.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pstrum/where-can-i-watch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pstrum/where-can-i-watch/issues"
+  },
+  "homepage": "https://github.com/pstrum/where-can-i-watch#readme",
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-live-server": "0.0.30",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-uglify": "^2.0.0",
+    "mongoose": "^4.4.14",
+    "require-dir": "^0.3.0",
+    "surge": "^0.18.0",
+    "webpack-stream": "^3.2.0"
+  }
+}
